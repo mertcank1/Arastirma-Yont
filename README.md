@@ -11,3 +11,5 @@ Arastirma3.pdf = 3. Hafta Ders Notu
 Arastirma4.pdf = 4. Hafta Ders Notu
 
 Arastirma5.pdf = 5. Hafta Ders Notu
+
+Arastirma6.pdf = 6. Hafta Ders Notu
